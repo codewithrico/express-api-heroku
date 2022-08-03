@@ -1,0 +1,14 @@
+# IDE
+.idea/
+*zip
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# BUILD
+dist/
+node_modules/
